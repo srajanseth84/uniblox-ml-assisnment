@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/srajanseth/SRAJAN/Projects/uniblox-ml-assisnment/mlruns/825747467247580183/6b69c3861b4b40d6932bd38e4b043ae9/artifacts
+end_time: 1744202791782
+entry_point_name: ''
+experiment_id: '825747467247580183'
+lifecycle_stage: active
+run_id: 6b69c3861b4b40d6932bd38e4b043ae9
+run_name: LogisticRegression_Tuning
+run_uuid: 6b69c3861b4b40d6932bd38e4b043ae9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744202785664
+status: 3
+tags: []
+user_id: srajanseth

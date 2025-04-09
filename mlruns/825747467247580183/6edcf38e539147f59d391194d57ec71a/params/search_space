@@ -1,0 +1,1 @@
+{'C': [0.1, 1, 10, 100], 'gamma': ['scale', 'auto', 0.1, 0.01, 0.001], 'kernel': ['rbf', 'linear', 'poly', 'sigmoid'], 'probability': [True], 'class_weight': ['balanced', None]}

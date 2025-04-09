@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1744202791779
+current_stage: None
+description: null
+last_updated_timestamp: 1744202791779
+name: LogisticRegression
+run_id: 6b69c3861b4b40d6932bd38e4b043ae9
+run_link: null
+source: file:///Users/srajanseth/SRAJAN/Projects/uniblox-ml-assisnment/mlruns/825747467247580183/6b69c3861b4b40d6932bd38e4b043ae9/artifacts/logistic_regression_model
+status: READY
+status_message: null
+storage_location: file:///Users/srajanseth/SRAJAN/Projects/uniblox-ml-assisnment/mlruns/825747467247580183/6b69c3861b4b40d6932bd38e4b043ae9/artifacts/logistic_regression_model
+user_id: null
+version: 1

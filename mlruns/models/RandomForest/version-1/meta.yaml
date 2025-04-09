@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1744202820685
+current_stage: None
+description: null
+last_updated_timestamp: 1744202820685
+name: RandomForest
+run_id: 602a901b69fc4878924a0cf3a1597825
+run_link: null
+source: file:///Users/srajanseth/SRAJAN/Projects/uniblox-ml-assisnment/mlruns/825747467247580183/602a901b69fc4878924a0cf3a1597825/artifacts/random_forest_model
+status: READY
+status_message: null
+storage_location: file:///Users/srajanseth/SRAJAN/Projects/uniblox-ml-assisnment/mlruns/825747467247580183/602a901b69fc4878924a0cf3a1597825/artifacts/random_forest_model
+user_id: null
+version: 1

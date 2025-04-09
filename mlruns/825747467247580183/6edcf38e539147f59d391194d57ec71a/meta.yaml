@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/srajanseth/SRAJAN/Projects/uniblox-ml-assisnment/mlruns/825747467247580183/6edcf38e539147f59d391194d57ec71a/artifacts
+end_time: 1744202986450
+entry_point_name: ''
+experiment_id: '825747467247580183'
+lifecycle_stage: active
+run_id: 6edcf38e539147f59d391194d57ec71a
+run_name: SVM_Tuning
+run_uuid: 6edcf38e539147f59d391194d57ec71a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744202828467
+status: 3
+tags: []
+user_id: srajanseth

@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1744202828452
+current_stage: None
+description: null
+last_updated_timestamp: 1744202828452
+name: XGBoost
+run_id: 48cb2039253e4570bf8a541941c45b32
+run_link: null
+source: file:///Users/srajanseth/SRAJAN/Projects/uniblox-ml-assisnment/mlruns/825747467247580183/48cb2039253e4570bf8a541941c45b32/artifacts/xgboost_model
+status: READY
+status_message: null
+storage_location: file:///Users/srajanseth/SRAJAN/Projects/uniblox-ml-assisnment/mlruns/825747467247580183/48cb2039253e4570bf8a541941c45b32/artifacts/xgboost_model
+user_id: null
+version: 1

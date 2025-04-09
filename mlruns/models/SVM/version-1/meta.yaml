@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1744202986447
+current_stage: None
+description: null
+last_updated_timestamp: 1744202986447
+name: SVM
+run_id: 6edcf38e539147f59d391194d57ec71a
+run_link: null
+source: file:///Users/srajanseth/SRAJAN/Projects/uniblox-ml-assisnment/mlruns/825747467247580183/6edcf38e539147f59d391194d57ec71a/artifacts/svm_model
+status: READY
+status_message: null
+storage_location: file:///Users/srajanseth/SRAJAN/Projects/uniblox-ml-assisnment/mlruns/825747467247580183/6edcf38e539147f59d391194d57ec71a/artifacts/svm_model
+user_id: null
+version: 1
