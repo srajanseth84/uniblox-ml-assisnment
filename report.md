@@ -104,14 +104,20 @@ The perfect scores suggest the model has successfully captured the patterns in t
 ### Feature Importance
 Feature importance analysis from the Random Forest model revealed the most influential features in predicting insurance enrollment. The top features were visualized to understand which factors most strongly influenced enrollment decisions.
 
+**Random Forest:**
+![Random Forest Feature Importance](images/rf_feature_importance.png)
+**XGBoost:**
+![XGBoost Feature Importance](images/xgb_feature_importance.png)
+
+Based on the feature importance plot from the Random Forest and XGBoost models, the most significant features were:
+- `salary`
+- `has_dependents`
+- `age`
+- `employment_type`
+
 ## 6. Conclusion and Recommendations
 
 The machine learning pipeline successfully built a highly accurate model for predicting employee insurance enrollment. The Random Forest classifier outperformed other models, achieving perfect predictive performance on the test set.
-
-### Key Insights:
-- Proper data preprocessing and feature engineering significantly improved model performance
-- Using MLflow for experiment tracking enabled systematic comparison of different models
-- The high predictive performance suggests that employee insurance enrollment decisions follow clear patterns that can be captured by machine learning algorithms
 
 ### More things I would like to do if I had more time:
 ## 1. ML Flow side
