@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/srajanseth/SRAJAN/Projects/uniblox-ml-assisnment/mlruns/776873019889314112/8ccb80ba760f4e9ab7c9de57d60c2b85/artifacts
+end_time: 1744217558931
+entry_point_name: ''
+experiment_id: '776873019889314112'
+lifecycle_stage: active
+run_id: 8ccb80ba760f4e9ab7c9de57d60c2b85
+run_name: XGBoost_Tuning
+run_uuid: 8ccb80ba760f4e9ab7c9de57d60c2b85
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744217551721
+status: 3
+tags: []
+user_id: srajanseth
